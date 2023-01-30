@@ -114,6 +114,9 @@ Execute the program
 ```
 # OUPUT
 
+![timetable ](https://user-images.githubusercontent.com/119559844/215599296-250ff711-6335-4407-8e1c-cfe83937ff5a.png)
+
+![tt valid](https://user-images.githubusercontent.com/119559844/215599336-2e9e923d-51d1-43ec-9b76-9c517c4d60c4.png)
 
 
 # RESULT
